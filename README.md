@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Dhoke</h1>
-<h3 align="center">A passionate Full Stack Java Developer from Pune, India</h3>
+<h3 align="center">🎓 B.Tech Graduate | 💻 Java Developer | 🌐 Full Stack Learner  </h3>
 
 ---
 
@@ -24,10 +24,8 @@
 ### 📫 Connect with Me
 
 - 📍 Pune, India  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link) *(update with your link)*  
-- 🧪 ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(replace with yours)*  
-- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com) *(optional)*  
-- ✉️ Email: yourname@example.com *(optional)*  
+- 🔗 [LinkedIn](https:www.linkedin.com/in/sakshidhoke)
+- ✉️ Email: sakshidhokec1709@gmail.com
 
 ---
 
@@ -40,15 +38,6 @@ Here are some projects I’ve worked on:
 - 💼 **Personal Portfolio Website** – Clean, responsive web page showcasing my work and skills  
 
 ---
-
-### 📈 GitHub Stats
-
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAKSHI-DHOKE&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAKSHI-DHOKE&layout=compact&theme=radical)
-
----
-
 ### 🧠 Fun Fact
 
 I believe in **learning by doing** and strive to grow every single day. Let’s build something great together!
